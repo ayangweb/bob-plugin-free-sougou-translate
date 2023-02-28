@@ -1,0 +1,12 @@
+{
+  "identifier": "com.bob-plugin-free-sougou-translate",
+  "version": "0.0.1",
+  "category": "translate",
+  "name": "搜狗翻译",
+  "summary": "免token调用搜狗翻译",
+  "icon": "110",
+  "author": "ayang",
+  "homepage": "https://github.com/bilibili-ayang/bob-plugin-free-sougou-translate",
+  "appcast": "https://raw.githubusercontent.com/bilibili-ayang/bob-plugin-free-sougou-translate/master/appcast.json",
+  "minBobVersion": "0.5.0"
+}

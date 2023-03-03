@@ -1,6 +1,6 @@
 {
   "identifier": "com.bob-plugin-free-sougou-translate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "category": "translate",
   "name": "搜狗翻译",
   "summary": "免token调用搜狗翻译",

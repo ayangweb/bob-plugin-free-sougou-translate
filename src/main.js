@@ -26,11 +26,7 @@ async function translate(query, completion) {
 			},
 		});
 
-		if (!result?.data) {
-			throw new Error();
-		}
-
-		$log.info(result.data.match(/"dit":"([^"]*)"/)[1]);
+		if (!result?.data) throw new Error();
 
 		const toParagraphs = result.data
 			.match(/"dit":"([^"]*)"/)[1]
@@ -47,8 +43,6 @@ async function translate(query, completion) {
 		completion({
 			error: {
 				type: "unknown",
-				message: "未知错误",
-				addtion: "如果多次请求失败，请联系插件作者！",
 			},
 		});
 	}

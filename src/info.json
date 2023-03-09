@@ -4,7 +4,7 @@
   "category": "translate",
   "name": "搜狗翻译",
   "summary": "免token调用搜狗翻译",
-  "icon": "110",
+  "icon": "111",
   "author": "ayang",
   "homepage": "https://github.com/bilibili-ayang/bob-plugin-free-sougou-translate",
   "appcast": "https://raw.githubusercontent.com/bilibili-ayang/bob-plugin-free-sougou-translate/master/appcast.json",

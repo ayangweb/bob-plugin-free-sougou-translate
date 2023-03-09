@@ -2,6 +2,13 @@
   "identifier": "com.bob-plugin-free-sougou-translate",
   "versions": [
     {
+      "version": "0.0.3",
+      "desc": "https://github.com/bilibili-ayang/bob-plugin-free-sougou-translate/blob/master/CHANGELOG.md",
+      "sha256": "a90f7c87b6d46ba8113349583e5294c3f7308e6d81a197ecc02bf8212000c574",
+      "url": "https://github.com/bilibili-ayang/bob-plugin-free-sougou-translate/releases/download/v0.0.3/bob-plugin-free-sougou-translate.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.0.2",
       "desc": "https://github.com/bilibili-ayang/bob-plugin-free-sougou-translate/blob/master/CHANGELOG.md",
       "sha256": "15c1e52ba76f79ea13326cc98ff7e58c42d4886743116a4a18e18b39eb028057",
